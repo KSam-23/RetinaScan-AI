@@ -11,6 +11,7 @@
 > From retinal scan to diagnosis in seconds — a dual-eye fusion CNN trained on 106K images to detect and classify diabetic retinopathy severity
 
 </div>
+
 ---
 
 ## 📌 Project Overview
